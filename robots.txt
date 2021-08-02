@@ -1,0 +1,4 @@
+User-agent: *
+Allow: 
+
+Sitemap: https://klmat.herokuapp.com/host-https-www.klmat.com/sitemap.xml
